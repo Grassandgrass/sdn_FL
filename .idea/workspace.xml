@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d88754a0-1204-4810-824b-3837933fcdf1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="easyFL" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2BSjqN1JzObnPuRKddOtBMwx1yj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/check" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Project_Test\easyFL\check" />
+      <recent name="D:\Project_Test\easyFL\benchmark" />
+      <recent name="D:\Project_Test\easyFL\check\nslkdd" />
+      <recent name="D:\Project_Test\easyFL\benchmark\nslkdd_classification" />
+      <recent name="D:\Project_Test\easyFL\benchmark\nslkdd_classification\model\tools" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Project_Test\easyFL\check" />
+      <recent name="D:\Project_Test\easyFL\check\nslkdd" />
+      <recent name="D:\Project_Test\easyFL\benchmark\nslkdd_classification\model" />
+      <recent name="D:\Project_Test\easyFL" />
+      <recent name="D:\Project_Test\easyFL\benchmark\nslkdd_muti_classification\data" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.picture (1)">
+    <configuration name="nsl_kdd_FLResNet" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="easyFL-main" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/check" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/check/nsl_kdd_FLResNet.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="nsl_kdd_processing" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="easyFL-main" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/benchmark/nslkdd_ad_classification" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/benchmark/nslkdd_ad_classification/nsl_kdd_processing.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="picture (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="easyFL-main" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/picture.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="seresnet" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="easyFL-main" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/benchmark/nslkdd_muti_classification/model" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/benchmark/nslkdd_muti_classification/model/seresnet.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="skresnet" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="easyFL-main" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/benchmark/nslkdd_muti_classification/model/tools" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/benchmark/nslkdd_muti_classification/model/tools/skresnet.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.nsl_kdd_FLResNet" />
+      <item itemvalue="Python.picture (1)" />
+      <item itemvalue="Python.nsl_kdd_processing" />
+      <item itemvalue="Python.skresnet" />
+      <item itemvalue="Python.seresnet" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.picture (1)" />
+        <item itemvalue="Python.seresnet" />
+        <item itemvalue="Python.skresnet" />
+        <item itemvalue="Python.nsl_kdd_FLResNet" />
+        <item itemvalue="Python.nsl_kdd_processing" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d88754a0-1204-4810-824b-3837933fcdf1" name="Default Changelist" comment="" />
+      <created>1656906570129</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656906570129</updated>
+      <workItem from="1656906580611" duration="4995000" />
+      <workItem from="1656937132571" duration="89000" />
+      <workItem from="1656937772434" duration="8042000" />
+      <workItem from="1658605171560" duration="135555000" />
+      <workItem from="1658847350874" duration="118807000" />
+      <workItem from="1659086864846" duration="146674000" />
+      <workItem from="1659417587792" duration="36186000" />
+      <workItem from="1659528922222" duration="2993000" />
+      <workItem from="1659547402235" duration="744000" />
+      <workItem from="1660534945131" duration="33297000" />
+      <workItem from="1660612394412" duration="6700000" />
+      <workItem from="1660627151981" duration="33000" />
+      <workItem from="1660630454575" duration="1535000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1658690369615">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1658690369615" />
+    <state x="510" y="250" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1660572619342">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="340" y="183" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.760@0.0.1280.760" timestamp="1656941883781" />
+    <state x="510" y="250" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1660572619342" />
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1658674450678">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1658674450678" />
+    <state x="632" y="185" key="FileChooserDialogImpl" timestamp="1658605207346">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="421" y="135" key="FileChooserDialogImpl/0.0.1280.760@0.0.1280.760" timestamp="1656911942920" />
+    <state x="632" y="185" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1658605207346" />
+    <state width="1877" height="191" key="GridCell.Tab.0.bottom" timestamp="1660663674653">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1238" height="128" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1656946661200" />
+    <state width="1877" height="191" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1660663674653" />
+    <state width="1877" height="191" key="GridCell.Tab.0.center" timestamp="1660663674652">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1238" height="128" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1656946661200" />
+    <state width="1877" height="191" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1660663674652" />
+    <state width="1877" height="191" key="GridCell.Tab.0.left" timestamp="1660663674652">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1238" height="128" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1656946661200" />
+    <state width="1877" height="191" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1660663674652" />
+    <state width="1877" height="191" key="GridCell.Tab.0.right" timestamp="1660663674653">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1238" height="128" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1656946661200" />
+    <state width="1877" height="191" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1660663674653" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1658752066340">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1238" height="236" key="GridCell.Tab.1.bottom/0.0.1280.760@0.0.1280.760" timestamp="1656945746067" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1658752066340" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1658752066340">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1238" height="236" key="GridCell.Tab.1.center/0.0.1280.760@0.0.1280.760" timestamp="1656945746067" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1658752066340" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1658752066340">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1238" height="236" key="GridCell.Tab.1.left/0.0.1280.760@0.0.1280.760" timestamp="1656945746066" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1658752066340" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1658752066340">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1238" height="236" key="GridCell.Tab.1.right/0.0.1280.760@0.0.1280.760" timestamp="1656945746067" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1658752066340" />
+    <state x="213" y="30" key="SettingsEditor" timestamp="1658690429001">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="142" y="22" key="SettingsEditor/0.0.1280.760@0.0.1280.760" timestamp="1656912393158" />
+    <state x="213" y="30" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1658690429001" />
+    <state x="486" y="279" key="com.intellij.ide.util.TipDialog" timestamp="1660630454214">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="324" y="204" key="com.intellij.ide.util.TipDialog/0.0.1280.760@0.0.1280.760" timestamp="1656937775607" />
+    <state x="486" y="279" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1660630454213" />
+    <state x="455" y="112" width="1008" height="928" key="search.everywhere.popup" timestamp="1659276638883">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="303" y="82" width="672" height="678" key="search.everywhere.popup/0.0.1280.760@0.0.1280.760" timestamp="1656943341898" />
+    <state x="455" y="112" width="1008" height="928" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1659276638883" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/benchmark/shakespeare_classification/core.py</url>
+          <line>244</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/benchmark/shakespeare_classification/core.py</url>
+          <line>248</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/benchmark/shakespeare_classification/core.py</url>
+          <line>118</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/generate_fedtask.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/generate_fedtask.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/benchmark/shakespeare_classification/core.py</url>
+          <line>126</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/benchmark/nslkdd_muti_classification/model/tools/seresnet.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/easyFL$nsl_kdd_processing.coverage" NAME="nsl_kdd_processing Coverage Results" MODIFIED="1659431793480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/benchmark/nslkdd_ad_classification" />
+    <SUITE FILE_PATH="coverage/easyFL$densenet.coverage" NAME="densenet Coverage Results" MODIFIED="1658678631945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/benchmark/unswnb15_muti_classification/model" />
+    <SUITE FILE_PATH="coverage/easyFL$ResNet__1_.coverage" NAME="ResNet (1) Coverage Results" MODIFIED="1658856620995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/benchmark/nslkdd_muti_classification/model" />
+    <SUITE FILE_PATH="coverage/easyFL_main$stackedlstm.coverage" NAME="stackedlstm Coverage Results" MODIFIED="1656944399351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/benchmark/shakespeare_classification/model" />
+    <SUITE FILE_PATH="coverage/easyFL_main$generate_fedtask.coverage" NAME="generate_fedtask Coverage Results" MODIFIED="1656945973877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/easyFL$MSNet.coverage" NAME="MSNet Coverage Results" MODIFIED="1658798894259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/benchmark/unswnb15_muti_classification/model" />
+    <SUITE FILE_PATH="coverage/easyFL$nsl_kdd_FLResNet.coverage" NAME="nsl_kdd_FLResNet Coverage Results" MODIFIED="1659450741762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/check" />
+    <SUITE FILE_PATH="coverage/easyFL$FocalLoss.coverage" NAME="FocalLoss Coverage Results" MODIFIED="1658919797647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/benchmark" />
+    <SUITE FILE_PATH="coverage/easyFL$picture.coverage" NAME="picture Coverage Results" MODIFIED="1658949265054" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithm" />
+    <SUITE FILE_PATH="coverage/easyFL$data_mutil_process.coverage" NAME="data_mutil_process Coverage Results" MODIFIED="1658741393700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/benchmark/unswnb15_muti_classification" />
+    <SUITE FILE_PATH="coverage/easyFL$pytest_in_unsw_nb15_mscnn_py.coverage" NAME="pytest in unsw_nb15_mscnn.py Coverage Results" MODIFIED="1658690474735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/check" />
+    <SUITE FILE_PATH="coverage/easyFL$ResNet.coverage" NAME="ResNet Coverage Results" MODIFIED="1658772299011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/benchmark/unswnb15_muti_classification/model" />
+    <SUITE FILE_PATH="coverage/easyFL$skresnet.coverage" NAME="skresnet Coverage Results" MODIFIED="1660573486309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/benchmark/nslkdd_muti_classification/model/tools" />
+    <SUITE FILE_PATH="coverage/easyFL$text.coverage" NAME="text Coverage Results" MODIFIED="1658808307309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/easyFL_main$core.coverage" NAME="core Coverage Results" MODIFIED="1656946511111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/benchmark/shakespeare_classification" />
+    <SUITE FILE_PATH="coverage/easyFL$nsl_mutil_kdd.coverage" NAME="nsl_mutil_kdd Coverage Results" MODIFIED="1659185521800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/benchmark/nslkdd_muti_classification" />
+    <SUITE FILE_PATH="coverage/easyFL$picture__1_.coverage" NAME="picture (1) Coverage Results" MODIFIED="1660630793755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/easyFL$cheak_martix.coverage" NAME="cheak_martix Coverage Results" MODIFIED="1658635620802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/easyFL$data_mutil_processing.coverage" NAME="data_mutil_processing Coverage Results" MODIFIED="1658669577892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/benchmark/unswnb15_muti_classification" />
+    <SUITE FILE_PATH="coverage/easyFL$seresnet.coverage" NAME="seresnet Coverage Results" MODIFIED="1660579210719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/benchmark/nslkdd_muti_classification/model" />
+    <SUITE FILE_PATH="coverage/easyFL$unsw_nb15_mscnn.coverage" NAME="unsw_nb15_mscnn Coverage Results" MODIFIED="1658759227952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/check" />
+    <SUITE FILE_PATH="coverage/easyFL$LMNet.coverage" NAME="LMNet Coverage Results" MODIFIED="1659151209552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/check" />
+  </component>
+</project>
